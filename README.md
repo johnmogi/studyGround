@@ -6,4 +6,4 @@ plan:
 
 2. build json data into cards using async await api calls
 
-3. gatsby looks hot as fuck!
+3. gatsby looks hot as fuck!# Ssnippets
